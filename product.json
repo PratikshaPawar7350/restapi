@@ -1,0 +1,20 @@
+[
+    {
+        "name":"ram",
+        "email":"a@gmail.com",
+        "password":"sdffsd",
+        "mobilenumber":"213435342"
+    },
+    {
+        "name":"rama",
+        "email":"aa@gmail.com",
+        "password":"asdffsd",
+        "mobilenumber":"455435342"
+    },
+    {
+        "name":"sham",
+        "email":"sham@gmail.com",
+        "password":"asdffsd",
+        "mobilenumber":"5435342"
+    }
+]
